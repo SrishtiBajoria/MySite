@@ -1,0 +1,27 @@
+.First{
+  background-color: #EAF6F6;
+  height: 200px;
+  width: 200px;
+  margin: 0;
+  border: solid 10px;
+  border-color: black;
+  padding: 20px;
+}
+
+.Second{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  margin-left: 260px;
+  border: solid 20px;
+  border-color: black;
+}
+
+.Third{
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  margin-left: 500px;
+  border:solid 10px;
+  border-color: black;
+}
